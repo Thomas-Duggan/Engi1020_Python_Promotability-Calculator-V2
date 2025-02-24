@@ -1,6 +1,6 @@
 ## Purpose
 
-Requests inputs for all courses that are prerequisite for Engineering One and Term 3+ promotability.
+A more streamlined calculator for determining your elegibility towards Engineering One or Term 3+.
 
 
 ## Issues
