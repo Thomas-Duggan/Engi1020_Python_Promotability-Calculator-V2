@@ -1,6 +1,6 @@
 ## Purpose
 
-A more streamlined calculator for determining your elegibility towards Engineering One or Term 3+.
+A more streamlined calculator for determining your elegibility towards Engineering One or Term 3+, with the ability to be called as a module.
 
 
 ## Issues
