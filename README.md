@@ -5,7 +5,12 @@ A more streamlined calculator for determining your elegibility towards Engineeri
 
 ## Issues
 
- - To be determined.
+ - None/Unknown
+   
+
+## Created for
+
+Engineering 1020: Intro to Programming assignment, Memorial University
 
 
 ## Copyright
